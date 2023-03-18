@@ -1,0 +1,18 @@
+
+.or_header{
+    border: solid 0.5px transparent;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    
+    background-color: #4fa607;
+}
+.or_options{
+    max-width: 200px;
+
+}
+.order_info{
+    border: solid 0.5px transparent;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px; 
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 10px;
+}

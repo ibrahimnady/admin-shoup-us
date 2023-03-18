@@ -1,0 +1,18 @@
+.AD_bg {
+    background-color     : white;
+    width                : 50%;
+    margin               : auto;
+    padding              : 15px;
+    border               : 3px solid green;
+    border-radius        : 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius   : 10px;
+    -ms-border-radius    : 10px;
+    -o-border-radius     : 10px;
+}
+
+@media only screen and (max-width: 600px) {
+    .AD_bg {
+        width: 100%;
+    }
+}

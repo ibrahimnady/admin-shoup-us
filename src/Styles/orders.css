@@ -1,0 +1,21 @@
+.paid{
+    background-color: #d1e7dd !important;
+    color: #2a664a !important; 
+    border-radius: 10px;
+}
+.Not_paid{
+    background-color: #f8d7da !important;
+    color: #9a444c !important;
+    border-radius: 10px;
+
+}
+.Delivered{
+    background-color: #198754;
+    color: white;
+    border-radius: 10px;
+}
+.not_Delivered{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}

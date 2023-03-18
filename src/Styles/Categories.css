@@ -1,0 +1,12 @@
+.C_bg{
+    background-color: white;
+    /* min-height: 80vh; */
+    padding: 15px;
+    border: solid 0.5px transparent;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px; 
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 10px;
+}
+.C_info{
+    width: 0%; 
+}

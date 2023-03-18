@@ -1,0 +1,28 @@
+.H_bg {
+    border-bottom  : 3px solid;
+    padding        : 10px;
+    color          : gray;
+    background-color: white;
+    
+}
+
+.H_btn {
+    border: 1px solid;
+    color : gray;
+}
+
+.H_bar {
+    margin: 15px;
+}
+
+.H_bar:hover {
+    color                : green;
+    margin               : 10px;
+    padding              : 5px;
+    background-color     : rgba(128, 128, 128, 0.438);
+    border-radius        : 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius   : 10px;
+    -ms-border-radius    : 10px;
+    -o-border-radius     : 10px;
+}

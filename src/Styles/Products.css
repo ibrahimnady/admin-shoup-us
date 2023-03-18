@@ -1,0 +1,29 @@
+.PD_bg{
+    background-color: white;
+    border-bottom: 1px solid;
+}
+.PD_bg_product{
+    background-color: white;
+}
+.PD_box{
+    border: 3px solid ;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+    
+.PD_cart_product {
+    border: 3px solid;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+
+
+
+
